@@ -9,9 +9,8 @@ class SpecialHeader extends HTMLElement {
                     </div>
                     <div class="navbar">
                         <ul class="links">
-                            <li class="listed-item"><a href="../html/us.html">Get to know us</a></li>
-                            <li class="listed-item"><a href="../html/services.html">Our Services</a></li>
-                            <li class="listed-item"><a href="../html/technical.html">Technical info</a></li>
+                            <li class="listed-item"><a href="../html/us.html">Nosotros</a></li>
+                            <li class="listed-item"><a href="../html/services.html">Servicios</a></li>
                         </ul>
                     </div>
                     <div class="cta">
